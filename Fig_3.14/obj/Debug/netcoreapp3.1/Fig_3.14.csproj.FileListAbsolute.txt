@@ -1,0 +1,13 @@
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.csprojAssemblyReference.cache
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.AssemblyInfoInputs.cache
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.AssemblyInfo.cs
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.csproj.CoreCompileInputs.cache
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.exe
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.deps.json
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.runtimeconfig.json
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.runtimeconfig.dev.json
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.dll
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\bin\Debug\netcoreapp3.1\Fig_3.14.pdb
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.dll
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.pdb
+C:\Users\linyuxuan\source\repos\Fig_3.14\Fig_3.14\obj\Debug\netcoreapp3.1\Fig_3.14.genruntimeconfig.cache
